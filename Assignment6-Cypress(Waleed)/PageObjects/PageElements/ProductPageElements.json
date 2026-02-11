@@ -1,0 +1,5 @@
+{
+    "ProductPageLocators":{
+        "item":"[data-test='inventory-item-name']"
+    }
+}
